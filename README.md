@@ -4,3 +4,7 @@ Then copy the URL from the raw file and paste that address into the pandas read_
 
 Please follow course instructions for which other repostiories you will use for specific classes.
 Other repositories have been added as necessary as examples for common class questions.
+
+
+Note:
+For older research project, please email me directly as I remove the code from my git after a few years.
