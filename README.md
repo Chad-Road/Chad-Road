@@ -6,5 +6,8 @@ Please follow course instructions for which other repostiories you will use for 
 Other repositories have been added as necessary as examples for common class questions.
 
 
-Note:
+Note1:
+All research projects are marked privite and can't be shown to other students unless you get permission from that student. Sorry, but no exceptions.
+
+Note 2:
 For older research project, please email me directly as I remove the code from my git after a few years.
